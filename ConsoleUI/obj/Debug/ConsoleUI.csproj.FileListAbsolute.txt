@@ -1,0 +1,22 @@
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\bin\Debug\ConsoleUI.exe
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\bin\Debug\ConsoleUI.pdb
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\obj\Debug\ConsoleUI.exe
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\obj\Debug\ConsoleUI.pdb
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\bin\Debug\Newtonsoft.Json.dll
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\bin\Debug\SpotifyAPI.dll
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\bin\Debug\Newtonsoft.Json.xml
+f:\visual studio 2017\Projects\CollegeMiniProject1\ConsoleUI\bin\Debug\SpotifyAPI.xml
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\bin\Debug\Newtonsoft.Json.dll
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\bin\Debug\SpotifyAPI.dll
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\bin\Debug\Newtonsoft.Json.xml
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\bin\Debug\SpotifyAPI.xml
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\coding\Programming Projects\CollegeMiniProject1-20190104T212020Z-001\CollegeMiniProject1\ConsoleUI\obj\Debug\ConsoleUI.pdb

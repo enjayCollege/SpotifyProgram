@@ -1,0 +1,5 @@
+f:\visual studio 2017\Projects\CollegeMiniProject1\SpotifyLibrary\bin\Debug\SpotifyLibrary.dll
+f:\visual studio 2017\Projects\CollegeMiniProject1\SpotifyLibrary\bin\Debug\SpotifyLibrary.pdb
+f:\visual studio 2017\Projects\CollegeMiniProject1\SpotifyLibrary\obj\Debug\SpotifyLibrary.csprojResolveAssemblyReference.cache
+f:\visual studio 2017\Projects\CollegeMiniProject1\SpotifyLibrary\obj\Debug\SpotifyLibrary.dll
+f:\visual studio 2017\Projects\CollegeMiniProject1\SpotifyLibrary\obj\Debug\SpotifyLibrary.pdb
